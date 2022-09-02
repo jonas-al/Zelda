@@ -9,6 +9,8 @@ public:
 
     void print( ) const;
 
+    void decStrength( );
+
 private:
 
     double strength;

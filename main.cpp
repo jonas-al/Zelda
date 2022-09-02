@@ -11,6 +11,8 @@ int main( )
 
     Sword royalGuardSword;
     royalGuardSword.print();
+    royalGuardSword.decStrength();
+    royalGuardSword.print();
 
     return 0;
 
